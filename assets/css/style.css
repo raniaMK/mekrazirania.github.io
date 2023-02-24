@@ -613,6 +613,18 @@ section {
     text-align: center;
   }
 }
+
+@media (max-width: 1024px) {
+  #hero  .h2 {
+    text-align: center;
+  }
+}
+
+@media (min-width: 769px) {
+  #hero  .h2{
+    text-align: center;
+  }
+}
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
