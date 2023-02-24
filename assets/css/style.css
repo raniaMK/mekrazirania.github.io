@@ -602,7 +602,17 @@ section {
     justify-content: flex-end;
   }
 }
+@media (max-width: 1024px) {
+  #hero .h1 {
+    text-align: center;
+  }
+}
 
+@media (min-width: 769px) {
+  #hero .h1 {
+    text-align: center;
+  }
+}
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
