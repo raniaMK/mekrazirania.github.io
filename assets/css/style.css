@@ -616,13 +616,13 @@ section {
 
 @media (max-width: 1024px) {
   #hero  .h2 {
-    text-align: justify;
+    text-align: right;
   }
 }
 
 @media (min-width: 769px) {
   #hero  .h2{
-    text-align: justify;
+    text-align: right;
   }
 }
 /*--------------------------------------------------------------
