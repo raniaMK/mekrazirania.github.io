@@ -603,13 +603,13 @@ section {
   }
 }
 @media (max-width: 1024px) {
-  #hero .h1 {
+  #hero .h1 .h2 {
     text-align: center;
   }
 }
 
 @media (min-width: 769px) {
-  #hero .h1 {
+  #hero .h1 .h2{
     text-align: center;
   }
 }
